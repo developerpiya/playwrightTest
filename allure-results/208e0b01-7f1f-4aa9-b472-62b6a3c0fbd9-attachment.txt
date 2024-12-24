@@ -1,0 +1,17 @@
+Value is : Delhi
+Value is : ISBT Kashmiri Gate
+Value is : Indira Gandhi International Airport
+Value is : Akshardham Metro Station
+Value is : Badarpur
+Value is : Mayur Vihar
+Value is : Dhaula Kuan
+Value is : Majnu Ka Tilla
+Value is : Morigate
+Value is : RK Ashram
+Value is : Akshardham Mandir
+Value is : Uttam Nagar
+Value is : Delhi Cantt
+Value is : GT Karnal Road
+Value is : Rohini
+Value is : Tis Hazari
+Value is : Azadpur
