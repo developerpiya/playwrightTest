@@ -1,5 +1,0 @@
-Number of options Count 11
-Value is :  Web Development
-Value is :  jQuery
-Value is :  Bootstrap
-Value is :  HTML
