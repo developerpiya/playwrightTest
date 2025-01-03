@@ -37,7 +37,10 @@ module.exports = defineConfig({
     // video:'on',//for show the video in report
     video: 'retain-on-failure'
   },
-  timeout: 2000, // This add manually for annotations
+  timeout: 30 * 1000,
+  expect: {
+    timeout: 5000
+  }, // This add manually for annotations
   /* Configure projects for major browsers */
   projects: [
     {
