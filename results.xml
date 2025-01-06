@@ -1,0 +1,12 @@
+<testsuites id="" name="" tests="4" failures="0" skipped="0" errors="0" time="15.127265">
+<testsuite name="tests-examples\reporters.spec.js" timestamp="2025-01-06T09:43:34.080Z" hostname="chromium" tests="4" failures="0" skipped="0" time="13.731" errors="0">
+<testcase name="Test 1" classname="tests-examples\reporters.spec.js" time="4.544">
+</testcase>
+<testcase name="Test 2" classname="tests-examples\reporters.spec.js" time="5.037">
+</testcase>
+<testcase name="Test 3" classname="tests-examples\reporters.spec.js" time="1.69">
+</testcase>
+<testcase name="Test 4" classname="tests-examples\reporters.spec.js" time="2.46">
+</testcase>
+</testsuite>
+</testsuites>

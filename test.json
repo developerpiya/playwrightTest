@@ -1,0 +1,212 @@
+[
+    {
+        "CLIENTNAME": "srishti",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "prefigure",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "santosh",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "hritik",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "shruti",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "rahul",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "snehil",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "Aditya_master",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "dhruv",
+        "ACCOUNT": "SIP",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "isha",
+        "ACCOUNT": "SIP",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "jhasaurabh",
+        "ACCOUNT": "SIP",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "pankaj",
+        "ACCOUNT": "SIP",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "kanika",
+        "ACCOUNT": "SIP",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "jestin",
+        "ACCOUNT": "SIP",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "himank",
+        "ACCOUNT": "SIP",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "rukhsana",
+        "ACCOUNT": "SIP",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "rahulk",
+        "ACCOUNT": "SIP",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "Prefiguresd1",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "Prefiguresd2",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "SD3_Prefigure",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "SD4_Prefigure",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "SD5_Prefigure",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "SD6_Prefigure",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "SD7_Prefigure",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "ansh",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "ruchi",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "adnan",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "rosiq5",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "SD8_Prefigure",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "SD9_Prefigure",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "SD10_Prefigure",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "kirti",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "jema",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "pervin",
+        "ACCOUNT": "POA",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    },
+    {
+        "CLIENTNAME": "shashank",
+        "ACCOUNT": "SIP",
+        "isActive": true,
+        "ADTYPE": "AFS_CHANNEL"
+    }
+]
